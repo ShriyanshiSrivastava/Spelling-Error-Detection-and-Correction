@@ -1,0 +1,8 @@
+testing input from text file
+escape also included   with multiple    spaces
+
+and 
+
+multiple spaces 
+
+
