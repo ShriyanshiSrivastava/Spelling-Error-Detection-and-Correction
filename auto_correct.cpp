@@ -137,7 +137,7 @@ auto_correct :: auto_correct(){
 	cout<<"Welcome to 'Auto Correct'"<<endl;
 	p++;
 	gotoxy(38, ++p);
-	cout<<"Created by Utkarsh Pandey/Shreya Grover"<<endl;
+	cout<<"Created by Shriyanshi Srivastava"<<endl;
 	++p;
 	gotoxy(50, ++p);
 	cout<<"version 1.04"<<endl;
